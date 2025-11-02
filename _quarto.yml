@@ -1,0 +1,30 @@
+project:
+  type: website
+
+website:
+  title: "Iris Chow"
+  navbar:
+    left:
+      - text: Home
+        href: index.qmd
+      - text: CV
+        href: cv.qmd
+      - text: portfolio
+        href: portfolio.qmd
+      - text: visualizations
+        href: visualizations.qmd
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/
+      - icon: twitter
+        href: https://twitter.com
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+
+editor: visual
+

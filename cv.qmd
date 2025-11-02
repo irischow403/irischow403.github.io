@@ -1,0 +1,5 @@
+---
+title: "cv"
+format: html
+---
+![](CV_IrisChow_Biostatistics.pdf){width=100% height=1000px}
