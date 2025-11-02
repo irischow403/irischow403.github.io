@@ -257,4 +257,3 @@ window.addEventListener('resize', function() {
     drawCategoryChart();
     drawSatisfactionChart();
 });
-
